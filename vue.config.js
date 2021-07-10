@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: './',
+  publicPath: '/Vue_Cli_Router_practice/',
 };
