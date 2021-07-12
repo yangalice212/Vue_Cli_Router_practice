@@ -1,3 +1,5 @@
+website: https://yangalice212.github.io/Vue_Cli_Router_practice/dist/index.html
+
 # vue_cli_router_practice
 
 ## Project setup
